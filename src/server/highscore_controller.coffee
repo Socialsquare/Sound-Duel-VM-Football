@@ -7,6 +7,9 @@ Meteor.methods
     unless name
       throw new Meteor.Error 403, "Name empty"
 
+    if name.length > 32
+      throw new Meteor.Error 403, "Name too long"
+
     game = Games.findOne gameId
     unless game?
       throw new Meteor.Error 404, "Game not found"
