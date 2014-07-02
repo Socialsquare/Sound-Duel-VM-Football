@@ -1027,7 +1027,7 @@
   },
   {
     "name": "VM i 1994 foregik i USA. Hvilken kamp fra det VM er scoringen i lydklippet fra?",
-    "description": "TODO",
+    "description": "I dagens quiz skruer vi tiden tilbage til VM i USA i 1994, hvor Brasilien endte som verdensmester for fjerde gang.",
     "category":    "Scoringer VM i 1994 i USA",
     "startDate": { "$date": 1404597600000 },
     "endDate"  : { "$date": 1404856800000 },
@@ -1248,6 +1248,120 @@
               {
                   "name": "E",
                   "text": "VM 1982 Brasilien-Argentina 3-1, mellemrundekamp"
+              }
+          ]
+        }
+      ]
+  }
+  {
+    "name": "VM i 1994 foregik i USA. Hvilken kamp fra det VM er scoringen i lydklippet fra?",
+    "description": "TODO",
+    "category":    "Scoringer VM i 1994 i USA",
+    "startDate": { "$date": 1404597600000 },
+    "endDate"  : { "$date": 1404856800000 },
+    "questions":
+      [
+        {
+          "soundfilePrefix": "QUIZ_VM_1994_TYSKLAND-BELGIEN_3-2",
+          "correctAnswer": "B",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Sverige-Rusland 3-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Tyskland-Belgien 3-2, 1/8-finale"
+              },
+              {
+                  "name": "C",
+                  "text": "Sverige-Rumænien 2-2 (5-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Bulgarien-Tyskland 2-1, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Italien-Bulgarien 2-1, semifinale"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1994_BULGARIEN-TYSKLAND",
+          "correctAnswer": "D",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Sverige-Rusland 3-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Tyskland-Belgien 3-2, 1/8-finale"
+              },
+              {
+                  "name": "C",
+                  "text": "Sverige-Rumænien 2-2 (5-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Bulgarien-Tyskland 2-1, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Italien-Bulgarien 2-1, semifinale"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1994_ITALIEN-BULGARIEN_2-1",
+          "correctAnswer": "E",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Sverige-Rusland 3-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Tyskland-Belgien 3-2, 1/8-finale"
+              },
+              {
+                  "name": "C",
+                  "text": "Sverige-Rumænien 2-2 (5-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Bulgarien-Tyskland 2-1, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Italien-Bulgarien 2-1, semifinale"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1994_SVERIGE-RUMÆNIEN_2-2jq",
+          "correctAnswer": "C",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Sverige-Rusland 3-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Tyskland-Belgien 3-2, 1/8-finale"
+              },
+              {
+                  "name": "C",
+                  "text": "Sverige-Rumænien 2-2 (5-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Bulgarien-Tyskland 2-1, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Italien-Bulgarien 2-1, semifinale"
               }
           ]
         }
