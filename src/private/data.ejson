@@ -1252,6 +1252,120 @@
           ]
         }
       ]
+  },
+  {
+    "name": "Spanien blev verdensmester i 2010. Men hvilken kamp er scoringen fra?",
+    "description": "I dagens quiz ser vi tilbage på VM i Sydafrika for fire år siden, hvor Spanien vandt VM for første gang.",
+    "category":    "Spansk verdensmester 2010",
+    "startDate": { "$date": 1405116000000 },
+    "endDate"  : { "$date": 1405375200000 },
+    "questions":
+      [
+        {
+          "soundfilePrefix": "QUIZ_VM_2010_SPANIEN-CHILE",
+          "correctAnswer": "A",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Spanien-Chile 2-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Spanien-Tyskland 1-0, semifinale"
+              },
+              {
+                  "name": "C",
+                  "text": "Spanien-Paraguay 1-0, kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Spanien-Honduras 2-0, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "Spanien-Portugal 1-0, 1/8-finale"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_2010_SPANIEN-HONDURAS",
+          "correctAnswer": "D",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Spanien-Chile 2-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Spanien-Tyskland 1-0, semifinale"
+              },
+              {
+                  "name": "C",
+                  "text": "Spanien-Paraguay 1-0, kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Spanien-Honduras 2-0, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "Spanien-Portugal 1-0, 1/8-finale"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_2010_SPANIEN-PARAGUAY",
+          "correctAnswer": "C",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Spanien-Chile 2-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Spanien-Tyskland 1-0, semifinale"
+              },
+              {
+                  "name": "C",
+                  "text": "Spanien-Paraguay 1-0, kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Spanien-Honduras 2-0, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "Spanien-Portugal 1-0, 1/8-finale"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_2010_SPANIEN-PORTUGAL",
+          "correctAnswer": "E",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Spanien-Chile 2-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Spanien-Tyskland 1-0, semifinale"
+              },
+              {
+                  "name": "C",
+                  "text": "Spanien-Paraguay 1-0, kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Spanien-Honduras 2-0, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "Spanien-Portugal 1-0, 1/8-finale"
+              }
+          ]
+        }
+      ]
   }
   {
     "name": "VM i 1994 foregik i USA. Hvilken kamp fra det VM er scoringen i lydklippet fra?",
