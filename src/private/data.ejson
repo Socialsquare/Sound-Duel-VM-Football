@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Hvilken VM-kamp fra 1980erne eller 1990erne er den brasilianske scoring fra?",
-    "description": "TODO",
+    "description": "Dagens quiz handler om to årtiers brasilianske VM-hold med spillere som Zico, Romario og Ronaldo.",
     "category":    "Brasiliansk scoring",
     "startDate": { "$date": 1404856800000 },
     "endDate"  : { "$date": 1405116000000 },
@@ -1362,6 +1362,120 @@
               {
                   "name": "E",
                   "text": "Italien-Bulgarien 2-1, semifinale"
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "name": "Hvilken VM-kamp fra 1980erne eller 1990erne er den brasilianske scoring fra?",
+    "description": "TODO",
+    "category":    "Brasiliansk scoring",
+    "startDate": { "$date": 1404856800000 },
+    "endDate"  : { "$date": 1405116000000 },
+    "questions":
+      [
+        {
+          "soundfilePrefix": "QUIZ_VM_1982_BRASILIEN-ARGENTINA",
+          "correctAnswer": "E",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "VM 1998 Brasilien-Chile 4-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "VM 1990 Brasilien-Skotland 1-0, gruppekamp"
+              },
+              {
+                  "name": "C",
+                  "text": "VM 1986 Brasilien-Frankrig 1-1 (3-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "VM 1994 Brasilien-Sverige 1-1, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "VM 1982 Brasilien-Argentina 3-1, mellemrundekamp"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1986_BRASILIEN-FRANKRIG",
+          "correctAnswer": "C",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "VM 1998 Brasilien-Chile 4-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "VM 1990 Brasilien-Skotland 1-0, gruppekamp"
+              },
+              {
+                  "name": "C",
+                  "text": "VM 1986 Brasilien-Frankrig 1-1 (3-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "VM 1994 Brasilien-Sverige 1-1, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "VM 1982 Brasilien-Argentina 3-1, mellemrundekamp"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1994_BRASILIEN-SVERIGE",
+          "correctAnswer": "D",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "VM 1998 Brasilien-Chile 4-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "VM 1990 Brasilien-Skotland 1-0, gruppekamp"
+              },
+              {
+                  "name": "C",
+                  "text": "VM 1986 Brasilien-Frankrig 1-1 (3-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "VM 1994 Brasilien-Sverige 1-1, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "VM 1982 Brasilien-Argentina 3-1, mellemrundekamp"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1998_BRASILIEN-CHILE",
+          "correctAnswer": "A",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "VM 1998 Brasilien-Chile 4-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "VM 1990 Brasilien-Skotland 1-0, gruppekamp"
+              },
+              {
+                  "name": "C",
+                  "text": "VM 1986 Brasilien-Frankrig 1-1 (3-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "VM 1994 Brasilien-Sverige 1-1, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "VM 1982 Brasilien-Argentina 3-1, mellemrundekamp"
               }
           ]
         }
