@@ -910,5 +910,347 @@
           ]
         }
       ]
+  },
+  {
+    "name": "Hvilken kamp med Frankrig fra VM 2006 er målet fra?",
+    "description": "I dagens quiz ser vi tilbage på Frankrigs VM-deltagelse i 2006, hvor Zinedine Zidane og Co. tabte finalen til Italien.",
+    "category":    "VM kamp Frankrig",
+    "startDate": { "$date": 1404338400000 },
+    "endDate"  : { "$date": 1404597600000 },
+    "questions":
+      [
+        {
+          "soundfilePrefix": "QUIZ_VM_2006_FRANKRIG-SPANIEN",
+          "correctAnswer": "A",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Frankring-Spanien 3-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "Frankrig-Portugal 1-0, semifinale"
+              },
+              {
+                  "name": "C",
+                  "text": "Frankrig-Sydkorea 1-1, gruppekamp"
+              },
+              {
+                  "name": "D",
+                  "text": "Frankrig-Brasilien 1-0, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Frankrig-Togo 2-0, gruppekamp"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_2006_FRANKRIG-TOGO",
+          "correctAnswer": "E",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Frankring-Spanien 3-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "Frankrig-Portugal 1-0, semifinale"
+              },
+              {
+                  "name": "C",
+                  "text": "Frankrig-Sydkorea 1-1, gruppekamp"
+              },
+              {
+                  "name": "D",
+                  "text": "Frankrig-Brasilien 1-0, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Frankrig-Togo 2-0, gruppekamp"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_2006_FRANKRIG-BRASILIEN",
+          "correctAnswer": "D",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Frankring-Spanien 3-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "Frankrig-Portugal 1-0, semifinale"
+              },
+              {
+                  "name": "C",
+                  "text": "Frankrig-Sydkorea 1-1, gruppekamp"
+              },
+              {
+                  "name": "D",
+                  "text": "Frankrig-Brasilien 1-0, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Frankrig-Togo 2-0, gruppekamp"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_2006_FRANKRIG-PORTUGAL",
+          "correctAnswer": "B",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Frankring-Spanien 3-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "Frankrig-Portugal 1-0, semifinale"
+              },
+              {
+                  "name": "C",
+                  "text": "Frankrig-Sydkorea 1-1, gruppekamp"
+              },
+              {
+                  "name": "D",
+                  "text": "Frankrig-Brasilien 1-0, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Frankrig-Togo 2-0, gruppekamp"
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "name": "VM i 1994 foregik i USA. Hvilken kamp fra det VM er scoringen i lydklippet fra?",
+    "description": "TODO",
+    "category":    "Scoringer VM i 1994 i USA",
+    "startDate": { "$date": 1404597600000 },
+    "endDate"  : { "$date": 1404856800000 },
+    "questions":
+      [
+        {
+          "soundfilePrefix": "QUIZ_VM_1994_TYSKLAND-BELGIEN_3-2",
+          "correctAnswer": "B",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Sverige-Rusland 3-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Tyskland-Belgien 3-2, 1/8-finale"
+              },
+              {
+                  "name": "C",
+                  "text": "Sverige-Rumænien 2-2 (5-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Bulgarien-Tyskland 2-1, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Italien-Bulgarien 2-1, semifinale"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1994_BULGARIEN-TYSKLAND",
+          "correctAnswer": "D",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Sverige-Rusland 3-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Tyskland-Belgien 3-2, 1/8-finale"
+              },
+              {
+                  "name": "C",
+                  "text": "Sverige-Rumænien 2-2 (5-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Bulgarien-Tyskland 2-1, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Italien-Bulgarien 2-1, semifinale"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1994_ITALIEN-BULGARIEN_2-1",
+          "correctAnswer": "E",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Sverige-Rusland 3-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Tyskland-Belgien 3-2, 1/8-finale"
+              },
+              {
+                  "name": "C",
+                  "text": "Sverige-Rumænien 2-2 (5-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Bulgarien-Tyskland 2-1, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Italien-Bulgarien 2-1, semifinale"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1994_SVERIGE-RUMÆNIEN_2-2",
+          "correctAnswer": "C",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "Sverige-Rusland 3-1, gruppekamp"
+              },
+              {
+                  "name": "B",
+                  "text": "Tyskland-Belgien 3-2, 1/8-finale"
+              },
+              {
+                  "name": "C",
+                  "text": "Sverige-Rumænien 2-2 (5-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "Bulgarien-Tyskland 2-1, kvartfinale"
+              },
+              {
+                  "name": "E",
+                  "text": "Italien-Bulgarien 2-1, semifinale"
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "name": "Hvilken VM-kamp fra 1980erne eller 1990erne er den brasilianske scoring fra?",
+    "description": "TODO",
+    "category":    "Brasiliansk scoring",
+    "startDate": { "$date": 1404856800000 },
+    "endDate"  : { "$date": 1405116000000 },
+    "questions":
+      [
+        {
+          "soundfilePrefix": "QUIZ_VM_1982_BRASILIEN-ARGENTINA",
+          "correctAnswer": "E",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "VM 1998 Brasilien-Chile 4-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "VM 1990 Brasilien-Skotland 1-0, gruppekamp"
+              },
+              {
+                  "name": "C",
+                  "text": "VM 1986 Brasilien-Frankrig 1-1 (3-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "VM 1994 Brasilien-Sverige 1-1, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "VM 1982 Brasilien-Argentina 3-1, mellemrundekamp"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1986_BRASILIEN-FRANKRIG",
+          "correctAnswer": "C",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "VM 1998 Brasilien-Chile 4-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "VM 1990 Brasilien-Skotland 1-0, gruppekamp"
+              },
+              {
+                  "name": "C",
+                  "text": "VM 1986 Brasilien-Frankrig 1-1 (3-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "VM 1994 Brasilien-Sverige 1-1, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "VM 1982 Brasilien-Argentina 3-1, mellemrundekamp"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1994_BRASILIEN-SVERIGE",
+          "correctAnswer": "D",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "VM 1998 Brasilien-Chile 4-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "VM 1990 Brasilien-Skotland 1-0, gruppekamp"
+              },
+              {
+                  "name": "C",
+                  "text": "VM 1986 Brasilien-Frankrig 1-1 (3-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "VM 1994 Brasilien-Sverige 1-1, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "VM 1982 Brasilien-Argentina 3-1, mellemrundekamp"
+              }
+          ]
+        },
+        {
+          "soundfilePrefix": "QUIZ_VM_1998_BRASILIEN-CHILE",
+          "correctAnswer": "A",
+          "alternatives": [
+              {
+                  "name": "A",
+                  "text": "VM 1998 Brasilien-Chile 4-1, 1/8-finale"
+              },
+              {
+                  "name": "B",
+                  "text": "VM 1990 Brasilien-Skotland 1-0, gruppekamp"
+              },
+              {
+                  "name": "C",
+                  "text": "VM 1986 Brasilien-Frankrig 1-1 (3-4), kvartfinale"
+              },
+              {
+                  "name": "D",
+                  "text": "VM 1994 Brasilien-Sverige 1-1, gruppekamp"
+              },
+              {
+                  "name": "E",
+                  "text": "VM 1982 Brasilien-Argentina 3-1, mellemrundekamp"
+              }
+          ]
+        }
+      ]
   }
 ]
