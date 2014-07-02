@@ -1366,7 +1366,7 @@
           ]
         }
       ]
-  }
+  },
   {
     "name": "VM i 1994 foregik i USA. Hvilken kamp fra det VM er scoringen i lydklippet fra?",
     "description": "TODO",
@@ -1454,7 +1454,7 @@
           ]
         },
         {
-          "soundfilePrefix": "QUIZ_VM_1994_SVERIGE-RUMÆNIEN_2-2jq",
+          "soundfilePrefix": "QUIZ_VM_1994_SVERIGE-RUMÆNIEN_2-2",
           "correctAnswer": "C",
           "alternatives": [
               {
